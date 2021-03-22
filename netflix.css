@@ -1,0 +1,132 @@
+body{
+    background-color:black;
+    color:white;
+    
+}
+.no{
+    display: flex;
+    overflow-y:hidden;
+}
+.no > img{
+    margin:6px;
+    transition: transform 0.2s;
+
+}
+.no > img:hover{
+    transform:scale(1.1);
+}
+html {
+    overflow:scroll;
+    overflow-x:hidden;
+}
+ ::-webkit-scrollbar {
+    width:0px;
+    background:transparent;
+}
+.tr{
+    overflow-y:hidden;
+    display:flex;
+}
+.tr > img{
+    margin:6px;
+    transition: transform 0.2s;
+}
+.tr > img:hover{
+    transform:scale(1.5);
+}
+html {
+    overflow:scroll;
+    overflow-x:hidden;
+}
+::-webkit-scrollbar {
+    width:0px;
+    background:transparent;
+}
+
+.tr{
+    overflow-y:hidden;
+    display:flex;
+}
+.tr > img{
+    margin:6px;
+    transition: transform 0.2s;
+}
+.tr > img:hover{
+    transform:scale(1.5);
+}
+html {
+    overflow:scroll;
+    overflow-x:hidden;
+}
+::-webkit-scrollbar {
+    width:0px;
+    background:transparent;
+}
+
+.pr{
+    overflow-y:hidden;
+    display:flex;
+}
+.pr > img{
+    margin:6px;
+    transition: transform 0.2s;
+}
+.pr > img:hover{
+    transform:scale(1.5);
+}
+html {
+    overflow:scroll;
+    overflow-x:hidden;
+}
+::-webkit-scrollbar {
+    width:0px;
+    background:transparent;
+}
+.cr{
+    overflow-y:hidden;
+    display:flex;
+}
+.cr > img{
+    margin:6px;
+    transition: transform 0.2s;
+}
+.cr > img:hover{
+    transform:scale(1.5);
+}
+html {
+    overflow:scroll;
+    overflow-x:hidden;
+}
+::-webkit-scrollbar {
+    width:0px;
+    background:transparent;
+}
+.or{
+    overflow-y:hidden;
+    display:flex;
+}
+.or > img{
+    margin:6px;
+    transition: transform 0.2s;
+}
+.or > img:hover{
+    transform:scale(1.5);
+}
+html {
+    overflow:scroll;
+    overflow-x:hidden;
+}
+::-webkit-scrollbar {
+    width:0px;
+    background:transparent;
+}
+.head {
+background-image: url("https://upload.wikimedia.org/wikipedia/en/f/f1/Alive_2020.jpg");
+height:400px;  
+overflow:hidden;
+width:100%;
+background-repeat:no-repeat;
+background-position:center center ;
+background-size: cover; 
+padding:25px;
+}
